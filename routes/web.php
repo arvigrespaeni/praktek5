@@ -13,3 +13,15 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::get('/halamanproduk', function () {
+    return view('halamanproduk');
+});
+
+Route::get('/biodata', function () {
+    return view('biodata');
+});
+
+Route::get('/bukutamu', function () {
+    return view('bukutamu');
+});
