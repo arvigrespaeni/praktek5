@@ -41,4 +41,4 @@
         </footer>
     </div>
     <!-- end cards -->
-    @endsection
+    @endsection 

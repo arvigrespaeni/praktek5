@@ -351,6 +351,6 @@
             </ul>
           </div>
         </div>
-      </nav>
+      </nav> 
 
       <!-- end Navbar -->

@@ -6,7 +6,7 @@
 * Product Page: https://www.creative-tim.com/product/soft-ui-dashboard-tailwind
 * Copyright 2023 Creative Tim (https://www.creative-tim.com)
 * Licensed under MIT (https://www.creative-tim.com/license)
-* Coded by Creative Tim
+* Coded by Creative Tim 
 
 =========================================================
 
